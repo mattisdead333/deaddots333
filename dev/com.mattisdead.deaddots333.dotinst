@@ -1,0 +1,14 @@
+{
+	"name": "deaddots333 DEV",
+	"id": "com.mattisdead.deaddots333.dev",
+	"description": "*Minimal* Hyprland Rice 2025",
+	"version":"0.1",
+	"author": "Mattisdead",
+	"homepage": "",
+	"dependencies": "",
+	"source": "Projects/deaddots333",
+	"subfolder": "dotfiles",
+	"setupscript":"setup.sh",
+	"restore":[],
+	"settings":[]
+}
