@@ -1,0 +1,1 @@
+stow -d ~/Projects/deaddots333/ -t ~/ dotfiles
